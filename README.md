@@ -11,7 +11,7 @@ The House Price Prediction System is a comprehensive machine learning project de
 - Model Optimization: To fine-tune the selected model using techniques like cross-validation and hyperparameter tuning for improved accuracy.
 
 ## Data Sources
-The dataset used for this project is derived from the (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) competition on Kaggle.
+The dataset used for this project is derived from the https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview competition on Kaggle.
 
 ## Week 1 - Project Setup
 
