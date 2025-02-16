@@ -16,19 +16,19 @@ The dataset used for this project is derived from the House Prices - Advanced Re
 ## Week 1 - Project Setup
 
 ## Tasks
-1. Setting up Git/GitHub
+### **1. Setting up Git/GitHub
 
-Initialize a Git repository for version control.
-Link the project to a GitHub repository for remote tracking and collaboration.
-2. Setting up Python, VSCode, and Jupyter Notebook
+- Initialize a Git repository for version control.
+- Link the project to a GitHub repository for remote tracking and collaboration.
+### **2. Setting up Python, VSCode, and Jupyter Notebook
 
-Install Python and configure it for the project.
-Set up VSCode as the primary IDE with required extensions.
-Install Jupyter Notebook for exploratory data analysis.
-3. Setting up AWS
+- Install Python and configure it for the project.
+- Set up VSCode as the primary IDE with required extensions.
+- Install Jupyter Notebook for exploratory data analysis.
+### **3. Setting up AWS
 
-Configure AWS services for data storage and computational resources.
-4. Setting up Virtual Environment using Pipenv
+- Configure AWS services for data storage and computational resources.
+### **4. Setting up Virtual Environment using Pipenv
 
-Install and initialize a virtual environment using pipenv to manage dependencies effectively.
-Add essential libraries and packages required for the project.
+- Install and initialize a virtual environment using pipenv to manage dependencies effectively.
+- Add essential libraries and packages required for the project.
