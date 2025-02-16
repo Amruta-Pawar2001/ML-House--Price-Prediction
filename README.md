@@ -5,14 +5,16 @@ The House Price Prediction System is a comprehensive machine learning project de
 
 ## Objectives
 - Data Analysis: To explore and analyze the dataset, identifying key features that influence house prices.
--- Data Preprocessing: To clean and preprocess the data, handling missing values, encoding categorical variables, and normalizing numerical features.
--- Model Development: To implement and compare various machine learning algorithms, including linear regression, decision trees, random forests, and gradient boosting methods.
--- Model Evaluation: To evaluate the performance of different models using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared values.
--- Model Optimization: To fine-tune the selected model using techniques like cross-validation and hyperparameter tuning for improved accuracy.
-Data Sources
+- Data Preprocessing: To clean and preprocess the data, handling missing values, encoding categorical variables, and normalizing numerical features.
+- Model Development: To implement and compare various machine learning algorithms, including linear regression, decision trees, random forests, and gradient boosting methods.
+- Model Evaluation: To evaluate the performance of different models using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared values.
+- Model Optimization: To fine-tune the selected model using techniques like cross-validation and hyperparameter tuning for improved accuracy.
+
+## Data Sources
 The dataset used for this project is derived from the House Prices - Advanced Regression Techniques competition on Kaggle.
 
 ## Week 1 - Project Setup
+
 ## Tasks
 1. Setting up Git/GitHub
 
