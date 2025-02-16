@@ -16,7 +16,7 @@ The dataset used for this project is derived from the House Prices - Advanced Re
 ## Week 1 - Project Setup
 
 ## Tasks
-### **1. Setting up Git/GitHub
+### 1. Setting up Git/GitHub
 
 - Initialize a Git repository for version control.
 - Link the project to a GitHub repository for remote tracking and collaboration.
