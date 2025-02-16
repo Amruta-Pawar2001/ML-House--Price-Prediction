@@ -20,15 +20,15 @@ The dataset used for this project is derived from the House Prices - Advanced Re
 
 - Initialize a Git repository for version control.
 - Link the project to a GitHub repository for remote tracking and collaboration.
-### **2. Setting up Python, VSCode, and Jupyter Notebook
+### 2. Setting up Python, VSCode, and Jupyter Notebook
 
 - Install Python and configure it for the project.
 - Set up VSCode as the primary IDE with required extensions.
 - Install Jupyter Notebook for exploratory data analysis.
-### **3. Setting up AWS
+### 3. Setting up AWS
 
 - Configure AWS services for data storage and computational resources.
-### **4. Setting up Virtual Environment using Pipenv
+### 4. Setting up Virtual Environment using Pipenv
 
 - Install and initialize a virtual environment using pipenv to manage dependencies effectively.
 - Add essential libraries and packages required for the project.
