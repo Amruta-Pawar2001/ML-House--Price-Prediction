@@ -1,9 +1,9 @@
 # ML-House--Price-Prediction
 
-Project Description
+## Project Description
 The House Price Prediction System is a comprehensive machine learning project designed to predict the sale prices of residential properties based on various features. This project aims to leverage historical data to build a predictive model that can assist buyers, sellers, and real estate professionals in making informed decisions regarding property transactions.
 
-Objectives
+# Objectives
 Data Analysis: To explore and analyze the dataset, identifying key features that influence house prices.
 Data Preprocessing: To clean and preprocess the data, handling missing values, encoding categorical variables, and normalizing numerical features.
 Model Development: To implement and compare various machine learning algorithms, including linear regression, decision trees, random forests, and gradient boosting methods.
@@ -12,8 +12,8 @@ Model Optimization: To fine-tune the selected model using techniques like cross-
 Data Sources
 The dataset used for this project is derived from the House Prices - Advanced Regression Techniques competition on Kaggle.
 
-Week 1 - Project Setup
-Tasks
+## Week 1 - Project Setup
+# Tasks
 1. Setting up Git/GitHub
 
 Initialize a Git repository for version control.
